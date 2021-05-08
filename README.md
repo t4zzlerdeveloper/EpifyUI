@@ -1,7 +1,7 @@
 ![](https://i.imgur.com/404w4d9.png)
 .NET Windows Forms Modern UI Framework
 =============
-![](https://img.shields.io/badge/Release-v1.0.0-blueviolet)
+![](https://img.shields.io/badge/Pre-Release-v1.0.0-blueviolet)
 ![](https://img.shields.io/badge/Modern-UI-blueviolet)
 ![](https://img.shields.io/github/issues/t4zzlerdeveloper/EpifyUI?color=blueviolet)
 ![](https://img.shields.io/github/license/t4zzlerdeveloper/EpifyUI?color=blueviolet)
