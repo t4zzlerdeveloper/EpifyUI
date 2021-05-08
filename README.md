@@ -10,7 +10,7 @@
 ### "EpifyUI helps you create the beautiful, custom and modern UI you need with ease."
 
 ## Instalation
-#### 1 - Download "EpifyUI.dll";
+#### 1 - [Download "EpifyUI.dll"](https://github.com/t4zzlerdeveloper/EpifyUI/releases/download/pr-v1.0.0.0/EpifyUI-pre-release-v1.0.0.0.dll "Download EpifyUI.dll");
 #### 2 - In Solution Explorer, right-click your project and go to "Add -> Reference";
 #### 3 - Press "Browse..", select "EpifyUI.dll" and finally click "OK";
 
