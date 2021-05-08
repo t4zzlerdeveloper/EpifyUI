@@ -9,7 +9,7 @@
 
 ### "EpifyUI helps you create the beautiful, custom and modern UI you need with ease."
 
-## Instalation(Nuget Package Coming soon)
+## Installation(Nuget Package Coming soon)
 #### 1 - [Download "EpifyUI.dll"](https://github.com/t4zzlerdeveloper/EpifyUI/releases/download/pr-v1.0.0.0/EpifyUI-pre-release-v1.0.0.0.dll "Download EpifyUI.dll");
 #### 2 - In Toolbox, right-click and press "Choose Items";
 #### 3 - Now press "Browse..", select "EpifyUI.dll" and finally click "OK";
