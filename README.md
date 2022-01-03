@@ -40,3 +40,8 @@
     + Auto-opening and closing
 - Form Rounded Corners
 - Form fade in and fade out
+
+
+-----------------------------------
+TODO:
+- Add custom message boxes
