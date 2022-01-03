@@ -36,3 +36,7 @@
       + Adjustable radius
     + Adjustable speed
 - Gradient Panels
+- Gradient Menu Beta
+    + Auto-opening and closing
+- Form Rounded Corners
+- Form fade in and fade out
